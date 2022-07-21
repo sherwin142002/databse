@@ -1,0 +1,17 @@
+.container input[type="name"],input[type="age"],input[type="email"],input[type="password"]{
+  border: none;
+  border-bottom: 1px solid black;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  font-size: 18px;
+}
+.container input[type="name"],input[type="age"],input[type="email"],input[type="password"]{
+  border: none;
+  border-bottom: 1px solid black;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  font-size: 18px;
+  color:black;
+}
